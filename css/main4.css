@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+.text-block{
+    margin: 200px auto;
+}
+.text-block-1{
+    width: 400px;
+    background-color: white;
+    margin: 100px auto;
+}
+.text-block-2{
+    width: 400px;
+    margin: 100px auto
+}
+.text-block-3 {
+    width: 400px;
+    margin: 100px auto
+}
+.text-block-item{
+    padding: 20px 24px;
+    float: left;
+    height: 400px;
+}

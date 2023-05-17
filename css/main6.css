@@ -1,0 +1,98 @@
+body{
+    background-color: white;
+}
+.aaa{
+    width: 968px;
+    margin: 250px auto;
+}
+.aa{
+    width: 968px;
+    height: 180px;
+}
+.a{
+    border: 3px solid darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
+.b{
+    border: 3px dashed darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
+.c{
+    border: 3px dotted darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
+.d{
+    border: 3px double darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
+.clear{
+    clear: both;
+}
+.ab{
+    width: 968px;
+    height: 180px;
+}
+.e{
+    border: 10px inset darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
+.f{
+    border: 10px outset darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
+.g{
+    border: 10px groove darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
+.h{
+    border: 10px ridge darkgray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    float: left;
+    margin: 20px;
+}
